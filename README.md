@@ -2,7 +2,8 @@
 My nickname is Emotion04，a saying goes 
 ***"By design, the Internet core is stupid, and the edge is smart"***.
 
-![emotion04's GitHub stats](github-readme-stats-gamma-six-57.vercel.app/api?username=emotion04&show_icons=true&bg_color=00000000)
+![emotion04's GitHub stats](https://github-readme-stats-gamma-six-57.vercel.app/api?username=emotion04&show_icons=true&bg_color=00000000)
+
 
 
 
