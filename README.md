@@ -4,7 +4,7 @@ My nickname is Emotion04，a saying goes
 
 
 ![Emotion04's GitHub stats](https://github-readme-stats-gamma-six-57.vercel.app/api?username=emotion04&show_icons=true&bg_color=00000000)
-![Tl](https://github-readme-stats.vercel.app/api/top-langs/?username=emotion04&show_icons=true&bg_color=00000000)
+![Tl](https://github-readme-stats.vercel.app/api/top-langs/?username=emotion04&show_icons=true&layout=donut&bg_color=00000000)
 
 
 <!--
